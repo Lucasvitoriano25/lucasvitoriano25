@@ -5,7 +5,7 @@
 
 ## 👋 About Me
 
-I am a passionate and driven Computer Engineering student with a strong foundation in Artificial Intelligence and Software Development. I am currently pursuing my Master of Engineering at Centrale Supélec Paris-Saclay University (August 2022 - December 2024), majoring in Artificial Intelligence (GPA: 3.57/4.00), and hold a Bachelor's Degree in Computer Engineering from Universidade Federal Do Ceará (January 2019 - September 2025, GPA: 3.68/4.00).
+I am a passionate and driven Computer Engineering student with a strong foundation in Artificial Intelligence and Software Development. I am currently pursuing my Master of Engineering at Centrale Supélec Paris-Saclay University, majoring in Artificial Intelligence, and hold a Bachelor's Degree in Computer Engineering from Universidade Federal Do Ceará.
 
 I am experienced in developing AI-powered solutions, improving user experiences, and automating processes. My technical skills include Python, C/C++, TypeScript, Rust, SQL, MongoDB, and a variety of AI/Machine Learning tools like PyTorch, TensorFlow, Hugging Face, and scikit-learn.
 
